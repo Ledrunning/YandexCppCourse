@@ -1,8 +1,6 @@
-# YandexCppCourse
+# Yandex C++ Course for beginners
 
 ## Solved tasks from Yandex Academy courses  by 90 %;
-
-## In this tasks I use switch - case construction to each theme for comfort;
 
 * Module about integer variables;
 
